@@ -9,6 +9,7 @@
   <a href="mailto:binnie723@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=binnie723@gmail.com"/></a>
 </p>
 
+<br>
 <h3 align="center">Studying</h3>
 <p align="center">
 <p align="center">
