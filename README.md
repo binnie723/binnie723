@@ -12,10 +12,11 @@
     <img src ="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : auto;"/>
 </a>
 -->
+<p align="center">
 - TechBlog : <https://binnie723.github.io> ✨
 - ArtStudio : <https://binnie723.myportfolio.com/> ✨
 - Email : <binnie723@gm.gist.ac.kr>
-
+</p>
 
 <br>
 <h3 align="center">Studying</h3>
