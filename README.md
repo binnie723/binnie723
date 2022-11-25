@@ -15,8 +15,7 @@
 -->
 
 ✨ TechBlog : <https://binnie723.github.io>  
-✨ ArtStudio : <https://binnie723.myportfolio.com/>   
-✨ Email : <binnie723@gm.gist.ac.kr>  
+✨ ArtStudio : <https://binnie723.myportfolio.com/>    
 </p>
 
 <br>
