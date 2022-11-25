@@ -5,7 +5,6 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
 <!--
 <a href="https://binnie723.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
