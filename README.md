@@ -5,7 +5,7 @@
 <h3 align="center">About Me</h3>
 <p align="center">
 <p align="center">
-  <a href="https://binnie723.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://binnie723.github.io/"/></a>&nbsp
+  <a href="https://binnie723.github.io/"><img src="[https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://binnie723.github.io/](https://img.shields.io/badge/-TechBlog-lightgrey)"/></a>&nbsp
   <a href="mailto:binnie723@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=binnie723@gmail.com"/></a>
 </p>
 
