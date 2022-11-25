@@ -4,7 +4,7 @@
 
 
 <h3 align="center">About Me</h3>
-<p align="center">
+
 <p align="center">
 <!--
 <a href="https://binnie723.github.io/">
