@@ -8,13 +8,6 @@
   <a href="https://binnie723.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=GitHub&logoColor=white&link=https://binnie723.github.io/"/></a>&nbsp
   <a href="mailto:binnie723@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=binnie723@gmail.com"/></a>
 </p>
-<br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrals2&count_bg=%23BCBC12&title_bg=%23555555&icon=apacherocketmq.svg&icon_color=%23DFDB1D&title=Visitors&edge_flat=false"/></a>
-</p>
-
-<br>
 
 <h3 align="center">Studying</h3>
 <p align="center">
