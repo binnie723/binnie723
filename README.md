@@ -2,9 +2,6 @@
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinnie723&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
-
-<h3 align="center">About Me</h3>
-<p align="center">
 <!--
 <a href="https://binnie723.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
