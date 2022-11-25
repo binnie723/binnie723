@@ -13,8 +13,9 @@
 </a>
 -->
 
-- Blog : <https://binnie723.github.io> ✨
-- Email : <binnie723@gm.gist.ac.kr>
+- StudyBlog : <https://binnie723.github.io> ✨
+- Artworks : <https://binnie723.myportfolio.com/> ✨
+
 <br>
 
 ## Studying
