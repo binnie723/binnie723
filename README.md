@@ -12,8 +12,8 @@
 </a>
 -->
 
-✨ TechBlog : <https://binnie723.github.io>  
-✨ ArtStudio : <https://binnie723.myportfolio.com/>    
+✨ Tech Blog : <https://binnie723.github.io>  
+✨ Art Studio : <https://binnie723.myportfolio.com/>    
 </p>
 
 <br>
