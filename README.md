@@ -1,7 +1,8 @@
 
-
- 💁🏻‍♀️ Go to know  [About Me](https://binnie723.github.io/portfolio/)   
-💻 Go to my  [TechBlog](https://binnie723.github.io)    
+💁🏻‍♀️ Go to know  [About Me](https://binnie723.github.io/portfolio/)  
+<br>
+💻 Go to my  [TechBlog](https://binnie723.github.io)  
+<br>
 🎨 Go to my  [ArtStudio](https://binnie723.myportfolio.com)       
  
 
