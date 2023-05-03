@@ -1,9 +1,9 @@
 
 
-💁🏻‍♀️→Go to know [About Me](https://binnie723.github.io/portfolio/)   
-💻→Go to my [TechBlog](https://binnie723.github.io)    
-🎨→Go to my [ArtStudio](https://binnie723.myportfolio.com)       
-
+💁🏻‍♀️ Go to know  [About Me](https://binnie723.github.io/portfolio/)   
+💻 Go to my  [TechBlog](https://binnie723.github.io)    
+🎨 Go to my  [ArtStudio](https://binnie723.myportfolio.com)       
+ 
 
 <br>
 <h3 align="center">Studying</h3>
