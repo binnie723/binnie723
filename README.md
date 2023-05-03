@@ -10,11 +10,11 @@
 <a href="https://www.youtube.com/channel/UCh2PUxXthHJtfnh03z4pV-Q">
     <img src ="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white" style="height : auto;"/>
 </a>
--->
-💁🏻‍♀️ [Go to know About Me](https://binnie723.github.io/portfolio/)  
-💻 [Go to my TechBlog](https://binnie723.github.io)   
-🎨 [Go to my ArtStudio](<https://binnie723.myportfolio.com)     
-</p>
+
+💁🏻‍♀️ [Go to know About Me](https://binnie723.github.io/portfolio/)   
+💻 [Go to my TechBlog](https://binnie723.github.io)    
+🎨 [Go to my ArtStudio](https://binnie723.myportfolio.com)       
+
 
 <br>
 <h3 align="center">Studying</h3>
